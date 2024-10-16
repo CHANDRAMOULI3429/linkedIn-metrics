@@ -1,0 +1,21 @@
+{
+  "name": "linkedin-oauth-backend",
+  "version": "1.0.0",
+  "description": "LinkedIn OAuth integration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
